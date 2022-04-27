@@ -1,6 +1,3 @@
-<p align="center">
-<a href="https://ibb.co/d7LhvXn"><img src="https://github.com/Riaz-404/Riaz-404/blob/main/cover%20image.jpg" width='100%' height="auto" alt="coder" border="0"></a>
-</p>
 <h1 align="center">Hi 👋, <b>I'm Md. Riazul Islam</b></h1>
 <h3 align="center">A self-taught & passionate Programmer & Full Stack Web Developer with over one year work experience from Bangladesh</h3>
 
