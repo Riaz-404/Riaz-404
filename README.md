@@ -84,8 +84,8 @@
 <h2 align="left">:chart_with_upwards_trend: Github Statistic </h2>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=riaz-404&show_icons=true&theme=react" width="45%"></img>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=riaz-404&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="45%"></img>
+  <img src="https://github-readme-stats.vercel.app/api?username=riaz-404&show_icons=true&theme=react" width="50%"></img>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=riaz-404&theme=react&date_format=M%20j%5B%2C%20Y%5D" width="50%"></img>
   <img src="https://activity-graph.herokuapp.com/graph?username=riaz-404&theme=react-dark"></img>
 </p>
 
