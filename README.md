@@ -2,7 +2,7 @@
 <img src="https://github.com/Riaz-404/Riaz-404/blob/main/Github-cover.png" width='100%' height="auto" alt="coder" border="0">
 </p>
 
-<h1>Hi, I'm <b>Md. Riazul Islam </b><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1>Hi, I'm <b>Md. Riazul Islam </b><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30px"></h1>
 A self-taught & passionate Programmer & Full Stack Web Developer with over one year work experience from Bangladesh. I'm currently pursuing my bachelor degree from Khulna University of Engineering & Technology (KUET), Bangladesh.
 
 <h2 align="left">:sunglasses: About Me</h2>
