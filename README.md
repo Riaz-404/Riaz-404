@@ -11,7 +11,7 @@ A self-taught & passionate Programmer & Full Stack Web Developer with over one y
 - 👯 I’m looking to collaborate on **Open-Source Project**
 - 👨‍💻 All of my projects are available at [Portfolio](https://riazulislam.netlify.app/)
 - 💬 Ask me about **React, C++**
-- 📫 How to reach me **imriaz.cu@gmail.com**
+- 📫 How to reach me **riazulislam.cuc@gmail.com**
 - ⚡ Fun fact: To become a programmer, first be good at searching [stackoverflow](https://stackoverflow.com/)
 
 
