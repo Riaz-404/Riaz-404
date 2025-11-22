@@ -89,6 +89,8 @@ A self-taught & passionate Programmer & Full Stack Web Developer with over one y
   <img src="https://activity-graph.herokuapp.com/graph?username=riaz-404&theme=react-dark"></img>
 </p>
 
+[![An image of @riaz404's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/riaz404)](https://holopin.io/@riaz404)
+
 <h2 align="left">:link: Connect with me </h2>
 <p align="left">
 <a href="https://linkedin.com/in/md-riazul-islam-891b65194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-riazul-islam-891b65194" height="30" width="40" /></a>
